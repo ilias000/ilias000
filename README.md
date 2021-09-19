@@ -30,14 +30,11 @@
 <br/>
 
 <p align ="left">
-<img src="https://github-readme-stats.vercel.app/api?username=singh08prashant&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
+<img src="https://github-readme-stats.vercel.app/api?username=ilias000&show_icons=true&theme=dark")
 </p>
 <br/>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ilias-piotopoulos">
-  <img align="center" alt="Prashant's's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Ilias Piotopoulos LinkedIn." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </p>
-  
-<br/>
-![Ilias Piotopoulos github stats](https://github-readme-stats.vercel.app/api?username=ilias000&show_icons=true&theme=dark)
