@@ -22,13 +22,13 @@
 
 <br/>
 
-<a href="https://github.com/ilias000">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilias000&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 <p align="center">
-<a href="https://www.linkedin.com/in/ilias-piotopoulos">
-  <img align="center" alt="Ilias Piotopoulos LinkedIn." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="https://github.com/ilias000">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilias000&theme=buefy&layout=compact" />
+  </a>
+
+  <br/>
+
+  <a href="https://www.linkedin.com/in/ilias-piotopoulos">
+    <img align="center" alt="Ilias Piotopoulos LinkedIn." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </p>
