@@ -1,7 +1,7 @@
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ilias000&show_icons=true&theme=dracula" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ilias000&show_icons=true&theme=dark" />
     </td>
     <td align="center">
       <a href="https://ilias-piotopoulos.com">
@@ -27,11 +27,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilias000&theme=buefy&layout=compact" />
 </a>
 
-<br/>
-
-<p align ="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ilias000&show_icons=true&theme=dark")
-</p>
 <br/>
 
 <p align="center">
