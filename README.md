@@ -16,4 +16,18 @@
   </tr>
 </table>
 
+<br/>
+
 <h2 align= "center"><b>I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!</b></h2>
+
+<br/>
+
+<a href="https://github.com/ilias000">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilias000&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilias000&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ilias-piotopoulos/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
