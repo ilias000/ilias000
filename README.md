@@ -11,7 +11,7 @@
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <br>
-        <strong>Visit my personal website </strong>
+        <strong> Visit my personal website </strong>
     </td>
   </tr>
 </table>
