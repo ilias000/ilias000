@@ -107,3 +107,13 @@
 ### 📫 Get In Touch
 <a href="mailto:admin@ilias-piotopoulos.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
+
+<br>
+
+----
+
+### My Projects:
+<h3 align="center">Already Pinned Down</h3>
+<p align="center">
+  <img align="center" alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
+</p>
