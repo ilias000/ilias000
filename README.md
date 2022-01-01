@@ -54,7 +54,7 @@
 ----
   
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilias000" alt="ilias000" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilias000&theme=monokai" alt="ilias000" /></a> 
 </p>
 
 <br>
@@ -71,48 +71,33 @@
 
 ----
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilias000&show_icons=true&locale=en" alt="ilias000" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ilias000&show_icons=true&theme=yeblu" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilias000&theme=yeblu" />
 </p>
-
-<br>
 
 ----
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilias000&" alt="ilias000" />
-</p>
-
-<br>
-
-----
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilias000&show_icons=true&locale=en&layout=compact" alt="ilias000" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilias000&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="ilias000" />
 </p>
   
 <br>
 
 ----
-  
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ilias-piotopoulos/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ilias-piotopoulos" height="30" width="40" /></a>
+
+<h3>📫 Get In Touch</h3>
+<p>
+  <a href="https://www.linkedin.com/in/ilias-piotopoulos/"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="40" alt="linkedin.com/in/ilias-piotopoulos" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:admin@ilias-piotopoulos.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30" height="30" alt="mail"></a> 
 </p>
-
+  
 <br>
 
 ----
 
-### 📫 Get In Touch
-<a href="mailto:admin@ilias-piotopoulos.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
-&nbsp; &nbsp;
-
-<br>
-
-----
-
-### My Projects:
+<h3>My Projects:</h3>
 <h3 align="center">Already Pinned Down</h3>
 <p align="center">
   <img align="center" alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
