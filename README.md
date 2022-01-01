@@ -97,9 +97,12 @@
 
 <h3>📫 Get In Touch</h3>
 <p>
-  <a href="https://www.linkedin.com/in/ilias-piotopoulos/"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="40" alt="linkedin.com/in/ilias-piotopoulos" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:admin@ilias-piotopoulos.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30" height="30" alt="mail"></a> 
+  <a href="https://www.linkedin.com/in/ilias-piotopoulos/">
+    <img align="left" alt="Ilias Piotopoulos | Linkedin" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> 
+  <a href="mailto:admin@ilias-piotopoulos.com">
+    <img align="left" alt="Ilias Piotopoulos | Gmail" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
 </p>
   
 <br>
