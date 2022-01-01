@@ -51,9 +51,13 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilias000" alt="ilias000" /></a> 
 </p>
 
-<h3 align="center">In case you wanted to see a snake eating my contribution graph :</h3>
+<br>
 
-[![Typing SVG](https://github.com/ilias000/ilias000/blob/output/github-contribution-grid-snake.svg)]
+<p alignh="center">
+  <h3 align="center">In case you wanted to see a snake eating my contribution graph :</h3>
+
+  [![Typing SVG](https://github.com/ilias000/ilias000/blob/output/github-contribution-grid-snake.svg)]
+</p>
 
 <br>
 
