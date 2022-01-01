@@ -1,6 +1,6 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2379F734&size=17&multiline=true&width=350&height=30&lines=Hello+and+welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2379F734&size=16&multiline=true&width=280&height=30&lines=Hello+and+welcome+to+my+profile)](https://git.io/typing-svg)
 
 <h3>
   I am a student 🎓 at the National and Kapodistrian University of Athens 🏛️ where I study Computer Science and Telecommunications 👨‍💻. <br>
