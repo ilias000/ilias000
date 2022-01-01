@@ -5,7 +5,7 @@
 <h3>
   I am a student 🎓 at the National and Kapodistrian University of Athens 🏛️ where I study Computer Science and Telecommunications 👨‍💻. <br>
   I am passionate about the science I study and I have an appetite to create, learn, and constantly evolve in the field of Computer Science 💻. I have been interested in           Computer Science from a young age 👶 where I have explored some of the paths it offers but I still want to experiment with all the different routes that this science has. I     love   learning and building new things as I am a person that loves getting better every day 📈. <br>
-  I look forward to absorb knowledge 🧠, gain experience 👨‍🏭, collaborate 🤝 and build amazing products 🏭 for the world🌍!
+  I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 and build amazing products 🏭 for the world🌍!
 </h3>
 
 <br>
