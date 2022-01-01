@@ -10,6 +10,8 @@
 
 <br>
 
+----
+
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <td align="center">
@@ -29,6 +31,8 @@
 
 <br>
 
+----
+
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
@@ -46,12 +50,16 @@
 </p>
   
 <br>
+
+----
   
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilias000" alt="ilias000" /></a> 
 </p>
 
 <br>
+
+----
 
 <p alignh="center">
   <h3 align="center">In case you wanted to see a snake eating my contribution graph :</h3>
@@ -61,11 +69,15 @@
 
 <br>
 
+----
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilias000&show_icons=true&locale=en" alt="ilias000" />
 </p>
 
 <br>
+
+----
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilias000&" alt="ilias000" />
@@ -73,11 +85,15 @@
 
 <br>
 
+----
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilias000&show_icons=true&locale=en&layout=compact" alt="ilias000" />
 </p>
   
 <br>
+
+----
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
