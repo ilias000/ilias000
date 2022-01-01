@@ -99,3 +99,11 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ilias-piotopoulos/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ilias-piotopoulos" height="30" width="40" /></a>
 </p>
+
+<br>
+
+----
+
+### 📫 Get In Touch
+<a href="mailto:admin@ilias-piotopoulos.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
