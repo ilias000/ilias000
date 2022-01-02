@@ -1,4 +1,4 @@
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="Gifs/Readme1.gif" alt="Ilias Piotopoulos coding Gif1" /></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2379F734&size=16&multiline=true&width=280&height=30&lines=Hello+and+welcome+to+my+profile)](https://git.io/typing-svg)
 
@@ -12,14 +12,16 @@
 
 ----
 
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br>
+
+<img align="left" src="Gifs/Readme2.gif" alt="Ilias Piotopoulos coding Gif2" width="500" height="320" />
 
 <td align="center">
   <a href="https://ilias-piotopoulos.com">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/globe.gif" width="270" height="270" />
+    <img src="Gifs/Globe.gif" alt="Ilias Piotopoulos Glob Gif" width="270" height="270" />
     <strong> 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
