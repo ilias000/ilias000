@@ -21,7 +21,7 @@
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <img src="Gifs/Globe.gif" alt="Ilias Piotopoulos Glob Gif" width="270" height="270" />
+    <img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif" width="270" height="270" />
     <strong> 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
