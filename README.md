@@ -67,7 +67,7 @@
 ----
   
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilias000&theme=monokai" alt="ilias000" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilias000&theme=monokai" alt="ilias000 statistics" /></a> 
 </p>
 
 <br>
@@ -85,12 +85,12 @@
 ----
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ilias000&show_icons=true&theme=yeblu" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilias000&theme=yeblu" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ilias000&show_icons=true&theme=yeblu" alt="ilias000 statistics" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilias000&theme=yeblu" alt="ilias000 statistics" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilias000&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="ilias000" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilias000&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="ilias000 statistics" />
 </p>
   
 <br>
