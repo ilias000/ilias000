@@ -19,7 +19,7 @@
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="270" height="270" />
+    <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/globe.gif" width="270" height="270" />
     <strong> 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
