@@ -100,9 +100,8 @@
 <h3>📫 Get In Touch</h3>
 <p>
   <a href="https://ilias-piotopoulos.com/">
-    <img align="left" alt="Ilias Piotopoulos | Personal website"  width="25px" src="Gifs/Earth.gif"/>
+    <img align="left" alt="Ilias Piotopoulos | Personal website"  width="45px" src="Gifs/Earth2.gif"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ilias-piotopoulos/">
     <img align="left" alt="Ilias Piotopoulos | Linkedin" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> 
