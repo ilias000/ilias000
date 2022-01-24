@@ -37,29 +37,29 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="Svgs/Spring.svg" alt="Spring" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="Svgs/Spring.svg" alt="Spring" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="Svgs/Java.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="Svgs/Java.svg" alt="Java" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="Svgs/C++.svg" alt="C++" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="Svgs/C++.svg" alt="C++" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="Svgs/C.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="Svgs/C.svg" alt="C" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="Svgs/Bash.svg" alt="Bash" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="Svgs/Bash.svg" alt="Bash" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="Svgs/Linux.svg" alt="Linux" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="Svgs/Linux.svg" alt="Linux" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="Svgs/Git.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="Svgs/Git.svg" alt="Git" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="Svgs/Docker.svg" alt="Docker" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="Svgs/Docker.svg" alt="Docker" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="Svgs/Kubernetes.svg" alt="Kubernetes" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="Svgs/Kubernetes.svg" alt="Kubernetes" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="Svgs/mongoDB.svg" alt="mongoDB" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="Svgs/mongoDB.svg" alt="mongoDB" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="Svgs/MySQL.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="Svgs/MySQL.svg" alt="MySQL" width="40" height="40"/></a>
   &nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="Svgs/Postman.svg" alt="Postman" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="Svgs/Postman.svg" alt="Postman" width="40" height="40"/></a>
 </p>
   
 <br>
