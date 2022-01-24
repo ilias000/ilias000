@@ -19,6 +19,9 @@
 <td align="center">
   <a href="https://ilias-piotopoulos.com">
     <img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif" width="270" height="270" href="https://ilias-piotopoulos.com"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;
     <strong> 
       Visit my personal website 
     </strong>
