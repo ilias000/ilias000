@@ -16,12 +16,12 @@
 
 <img align="left" src="Gifs/Readme2.gif" alt="Ilias Piotopoulos coding Gif2" width="500" height="320" />
 
-<td align="center">
+<!-- <td align="center">
   <a href="https://ilias-piotopoulos.com">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif" width="270" height="270" />
+    <img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif" width="270" height="270" href="https://ilias-piotopoulos.com"/>
     <strong> 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,7 +29,14 @@
       Visit my personal website 
     </strong>
   </a>
-</td>
+</td> -->
+
+<a href="https://ilias-piotopoulos.com">
+  <figure>
+    <img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif" width="270" height="270" />
+    <figcaption>Visit my personal website</figcaption>
+  </figure>
+</a>
 
 <br>
 
@@ -99,17 +106,11 @@
 
 <h3>📫 Get In Touch</h3>
 <p align="center">
-  <a href="https://ilias-piotopoulos.com/">
-    <img align="center" alt="Ilias Piotopoulos | Personal website"  width="45px" src="Gifs/Earth2.gif"/>
-  </a>
+  <a href="https://ilias-piotopoulos.com/"><img align="center" alt="Ilias Piotopoulos | Personal website"  width="45px" src="Gifs/Earth2.gif"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ilias-piotopoulos/">
-    <img align="center" alt="Ilias Piotopoulos | Linkedin" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> 
+  <a href="https://www.linkedin.com/in/ilias-piotopoulos/"><img align="center" alt="Ilias Piotopoulos | Linkedin" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> 
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:admin@ilias-piotopoulos.com">
-    <img align="center" alt="Ilias Piotopoulos | Gmail" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
+  <a href="mailto:admin@ilias-piotopoulos.com"><img align="center" alt="Ilias Piotopoulos | Gmail" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a>
 </p>
   
 <br>
