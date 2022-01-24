@@ -71,7 +71,7 @@
   
   <img src="https://github.com/ilias000/ilias000/blob/output/github-contribution-grid-snake.svg" />
 
-<!--   [![Typing SVG](https://github.com/ilias000/ilias000/blob/output/github-contribution-grid-snake.svg)] -->
+  [![Typing SVG](https://github.com/ilias000/ilias000/blob/output/github-contribution-grid-snake.svg)]
 </p>
 
 <br>
