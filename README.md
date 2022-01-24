@@ -16,7 +16,7 @@
 
 <img align="left" src="Gifs/Readme2.gif" alt="Ilias Piotopoulos coding Gif2" width="500" height="320" />
 
-<!-- <td align="center">
+<td align="center">
   <a href="https://ilias-piotopoulos.com">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -29,14 +29,7 @@
       Visit my personal website 
     </strong>
   </a>
-</td> -->
-
-<a href="https://ilias-piotopoulos.com">
-  <figure>
-    <img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif" width="270" height="270" />
-    <figcaption>Visit my personal website</figcaption>
-  </figure>
-</a>
+</td>
 
 <br>
 
