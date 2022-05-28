@@ -21,7 +21,7 @@
 <p>
   <h3 align="center"> Visit my personal website </h3>
   <p align="center">
-  <a href="https://ilias-piotopoulos.com/"><img align="center" alt="Ilias Piotopoulos | Personal website."  width="270" height="270" src="Gifs/Earth2.gif"/></a>
+   <a href="https://ilias-piotopoulos.com/"><img alt="Ilias Piotopoulos | Personal website."  width="45px" src="Gifs/Earth2.gif" target="_blank"/></a>
   </p>
 </p>
 
@@ -70,9 +70,7 @@
 
 <p alignh="center">
   <h3 align="center">In case you wanted to see a snake eating my contribution graph :</h3>
-  
   <img src="https://github.com/ilias000/ilias000/blob/output/github-contribution-grid-snake.svg" alt="Svg with a snake that is eating my contribution graph."/>
-
 </p>
 
 <br>
@@ -94,11 +92,11 @@
 
 <h3>📫 Get In Touch</h3>
 <p align="center">
-  <a href="https://ilias-piotopoulos.com/"><img align="center" alt="Ilias Piotopoulos | Personal website."  width="45px" src="Gifs/Earth2.gif"/></a>
+  <a href="https://ilias-piotopoulos.com/"><img alt="Ilias Piotopoulos | Personal website."  width="45px" src="Gifs/Earth2.gif"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ilias-piotopoulos/"><img align="center" alt="Ilias Piotopoulos | Linkedin." width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> 
+  <a href="https://www.linkedin.com/in/ilias-piotopoulos/"><img alt="Ilias Piotopoulos | Linkedin." width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> 
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:admin@ilias-piotopoulos.com"><img align="center" alt="Ilias Piotopoulos | Gmail." width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a>
+  <a href="mailto:admin@ilias-piotopoulos.com"><img alt="Ilias Piotopoulos | Gmail." width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a>
 </p>
   
 <br>
