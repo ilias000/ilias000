@@ -1,4 +1,4 @@
-<p><img align="right" src="Gifs/Readme1.gif" alt="Ilias Piotopoulos coding Gif1." /></p>
+<p align="right"><img src="Gifs/Readme1.gif" alt="Ilias Piotopoulos coding Gif1." /></p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2379F734&size=16&multiline=true&width=280&height=30&lines=Hello+and+welcome+to+my+profile)
 
