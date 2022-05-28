@@ -1,4 +1,4 @@
-<p align="right"><img src="Gifs/Readme1.gif" alt="Ilias Piotopoulos coding Gif1." /></p>
+<p align="center"><img src="Gifs/Readme1.gif" alt="Ilias Piotopoulos coding Gif1." /></p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2379F734&size=16&multiline=true&width=280&height=30&lines=Hello+and+welcome+to+my+profile)
 
@@ -16,12 +16,12 @@
 
 <img align="left" src="Gifs/Readme2.gif" alt="Ilias Piotopoulos coding Gif2." width="500" height="320" />
 
-<td>
+<p>
   <h3 align="center"> Visit my personal website </h3>
   <p align="center">
     <a href="https://ilias-piotopoulos.com" target="_blank"><img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif." width="270" height="270" href="https://ilias-piotopoulos.com"></a>
   </p>
-</td>
+</p>
 
 <br>
 
