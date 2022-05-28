@@ -14,9 +14,12 @@
 
 <br>
 
-<img align="left" src="Gifs/Readme2.gif" alt="Ilias Piotopoulos coding Gif2." width="500" height="320" />
-
-<p align="rigth">
+<p align="center">
+ <img src="Gifs/Readme2.gif" alt="Ilias Piotopoulos coding Gif2." width="500" height="320" />
+</p>
+  
+<p>
+  <h3 align="center"> Visit my personal website </h3>
   <p align="center">
     <a href="https://ilias-piotopoulos.com" target="_blank"><img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif." width="270" height="270" href="https://ilias-piotopoulos.com"></a>
   </p>
