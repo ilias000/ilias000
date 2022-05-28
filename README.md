@@ -94,8 +94,6 @@
 
 <h3>📫 Get In Touch</h3>
 <p align="center">
-  <a href="https://ilias-piotopoulos.com/"><img alt="Ilias Piotopoulos | Personal website."  width="45px" src="Gifs/Earth2.gif"/></a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ilias-piotopoulos/"><img alt="Ilias Piotopoulos | Linkedin." width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> 
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:admin@ilias-piotopoulos.com"><img alt="Ilias Piotopoulos | Gmail." width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a>
