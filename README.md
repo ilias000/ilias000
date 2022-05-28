@@ -22,7 +22,7 @@
   <h3 align="center"> Visit my personal website </h3>
   <p align="center">
    <a href="https://ilias-piotopoulos.com/">
-    <img alt="Ilias Piotopoulos | Personal website." width="100px" src="Gifs/Earth2.gif" target="_blank"/>
+    <img alt="Ilias Piotopoulos | Personal website." width="80px" src="Gifs/Earth2.gif" target="_blank"/>
    </a>
   </p>
 </p>
