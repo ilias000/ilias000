@@ -46,7 +46,7 @@ I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 
 
 ----
 
-<h3 align="center">In case you wanted to see a snake eating my contribution graph:</h3>
+<h3 align="center">🐍 In case you wanted to see a snake eating my contribution graph:</h3>
 <p align="center">
   <img align="center" src="https://github.com/ilias000/ilias000/blob/output/github-contribution-grid-snake.svg" alt="A snake eating my contribution graph" width="80%"/>
 </p>
@@ -79,7 +79,7 @@ I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 
 
 ----
 
-<h3>My Projects:</h3>
+<h3>💼 My Projects:</h3>
 <h3 align="center">📌 Already Pinned Down</h3>
 <p align="center">
   <img align="center" alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="35%">
