@@ -82,5 +82,5 @@ I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 
 <h3>My Projects:</h3>
 <h3 align="center">Already Pinned Down</h3>
 <p align="center">
-  <img align="center" alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
+  <img align="center" alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="35%">
 </p>
