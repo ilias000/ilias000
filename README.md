@@ -41,14 +41,14 @@ I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 
 ----
   
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilias000&theme=monokai" alt="ilias000 statistics" width="70%"/></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilias000&theme=monokai" alt="ilias000 statistics" width="75%"/></a> 
 </p>
 
 ----
 
 <h3 align="center">In case you wanted to see a snake eating my contribution graph:</h3>
 <p align="center">
-  <img align="center" src="https://github.com/ilias000/ilias000/blob/output/github-contribution-grid-snake.svg" alt="A snake eating my contribution graph" width="75%"/>
+  <img align="center" src="https://github.com/ilias000/ilias000/blob/output/github-contribution-grid-snake.svg" alt="A snake eating my contribution graph" width="80%"/>
 </p>
 
 ----
