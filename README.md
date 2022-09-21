@@ -64,7 +64,7 @@ I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 
 <td>
   <h3 align="center"> Visit my personal website</h3>
   <p align="center">
-    <a href="https://ilias-piotopoulos.com" target="_blank"><img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif" width="170" height="170" href="https://ilias-piotopoulos.com"/></a>
+    <a href="https://ilias-piotopoulos.com" target="_blank"><img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif" href="https://ilias-piotopoulos.com" width="17%"/></a>
   </p>
 </td>
 
