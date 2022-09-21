@@ -1,4 +1,4 @@
-&nbsp;**Ilias Piotopoulos**<br>
+<img align="left" src="Svgs/terminal.svg" width="5%"/>&nbsp;**Ilias Piotopoulos**<br>
 **`Computer Scientist / Student`**
 
 <p><img align="right" src="Gifs/Readme1.gif" alt="Ilias Piotopoulos coding Gif1" width="250" height="250"/></p>
