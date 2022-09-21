@@ -54,9 +54,9 @@ I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 
 ----
 
 <p align="center">
-  <img width="25%" src="https://github-readme-stats.vercel.app/api?username=ilias000&show_icons=true&theme=yeblu" alt="ilias000 statistics"/>
-  <img width="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilias000&theme=yeblu" alt="ilias000 statistics"/>
-  <img width="21%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilias000&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="ilias000 statistics"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=ilias000&show_icons=true&theme=yeblu" alt="ilias000 statistics"/>
+  <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilias000&theme=yeblu" alt="ilias000 statistics"/>
+  <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilias000&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="ilias000 statistics"/>
 </p>
 
 ----
