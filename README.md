@@ -70,8 +70,6 @@
   <h3 align="center">In case you wanted to see a snake eating my contribution graph :</h3>
   
   <img src="https://github.com/ilias000/ilias000/blob/output/github-contribution-grid-snake.svg" />
-
-  [![Typing SVG](https://github.com/ilias000/ilias000/blob/output/github-contribution-grid-snake.svg)]
 </p>
 
 <br>
