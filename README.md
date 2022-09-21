@@ -1,24 +1,13 @@
 **Ilias Piotopoulos**<br>
 **`Computer Scientist / Student`**
 
-<p><img align="right" src="Gifs/Readme1.gif" alt="Ilias Piotopoulos coding Gif1" width="250" height="250"/></p>
+<p><img align="right" src="Gifs/Readme1.gif" alt="Ilias Piotopoulos coding Gif1" width="270" height="270"/></p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2379F734&size=16&multiline=true&width=280&height=30&lines=Hello+and+welcome+to+my+profile)
 
 **I am a student 🎓 at the National and Kapodistrian University of Athens 🏛️ where I study Computer Science and Telecommunications 👨‍💻.<br>
 I am passionate about the science I study and I have an appetite to create, learn, and constantly evolve in the field of Computer Science 💻. I have been interested in Computer Science from a young age 👶 where I have explored some of the paths it offers but I still want to experiment with all the different routes that this science has. I love learning and building new things as I am a person that loves getting better every day 📈.<br>
 I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 and build amazing products 🏭 for the world🌍!**
-
-----
-
-<img align="left" src="Gifs/Readme2.gif" alt="Ilias Piotopoulos coding Gif2" width="430" height="220" />
-
-<td>
-  <h3 align="center"> Visit my personal website </h3>
-  <p align="center">
-    <a href="https://ilias-piotopoulos.com" target="_blank"><img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif" width="170" height="170" href="https://ilias-piotopoulos.com"/></a>
-  </p>
-</td>
 
 ----
 
@@ -48,52 +37,45 @@ I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 
   &nbsp;&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="Svgs/Postman.svg" alt="Postman" width="40" height="40"/></a>
 </p>
-  
-<br>
 
 ----
   
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilias000&theme=monokai" alt="ilias000 statistics" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilias000&theme=monokai" alt="ilias000 statistics" width="65%"/></a> 
 </p>
-
-<br>
 
 ----
 
-<p alignh="center">
-  <h3 align="center">In case you wanted to see a snake eating my contribution graph :</h3>
-  
-  <img src="https://github.com/ilias000/ilias000/blob/output/github-contribution-grid-snake.svg" />
+<h3 align="center">In case you wanted to see a snake eating my contribution graph:</h3>
+<p align="center">
+  <img align="center" src="https://github.com/ilias000/ilias000/blob/output/github-contribution-grid-snake.svg" alt="A snake eating my contribution graph" width="70%"/>
 </p>
-
-<br>
 
 ----
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ilias000&show_icons=true&theme=yeblu" alt="ilias000 statistics" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilias000&theme=yeblu" alt="ilias000 statistics" />
+  <img width="25%" src="https://github-readme-stats.vercel.app/api?username=ilias000&show_icons=true&theme=yeblu" alt="ilias000 statistics"/>
+  <img width="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilias000&theme=yeblu" alt="ilias000 statistics"/>
+  <img width="21%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilias000&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="ilias000 statistics"/>
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilias000&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="ilias000 statistics" />
-</p>
-  
-<br>
+----
+
+<td>
+  <h3 align="center"> Visit my personal website</h3>
+  <p align="center">
+    <a href="https://ilias-piotopoulos.com" target="_blank"><img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif" width="170" height="170" href="https://ilias-piotopoulos.com"/></a>
+  </p>
+</td>
 
 ----
 
 <h3>📫 Get In Touch</h3>
 <p align="center">
-  <a href="https://ilias-piotopoulos.com/"><img align="center" alt="Ilias Piotopoulos | Personal website"  width="45px" src="Gifs/Earth2.gif"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ilias-piotopoulos/"><img align="center" alt="Ilias Piotopoulos | Linkedin" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> 
+  <a href="https://www.linkedin.com/in/ilias-piotopoulos/"><img align="center" alt="Ilias Piotopoulos | Linkedin" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"/></a> 
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:admin@ilias-piotopoulos.com"><img align="center" alt="Ilias Piotopoulos | Gmail" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a>
+  <a href="mailto:admin@ilias-piotopoulos.com"><img align="center" alt="Ilias Piotopoulos | Gmail" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/></a>
 </p>
-  
-<br>
 
 ----
 
