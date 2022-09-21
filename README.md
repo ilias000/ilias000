@@ -11,7 +11,7 @@ I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 
 
 ----
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">🧰 Languages and Tools</h3>
 <p align="center">
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="Svgs/Spring.svg" alt="Spring" width="40" height="40"/></a>
   &nbsp;&nbsp;
@@ -62,7 +62,7 @@ I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 
 ----
 
 <td>
-  <h3 align="center"> Visit my personal website</h3>
+  <h3 align="center"> 🔗 Visit my personal website</h3>
   <p align="center">
     <a href="https://ilias-piotopoulos.com" target="_blank"><img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif" href="https://ilias-piotopoulos.com" width="17%"/></a>
   </p>
@@ -80,7 +80,7 @@ I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 
 ----
 
 <h3>My Projects:</h3>
-<h3 align="center">Already Pinned Down</h3>
+<h3 align="center">📌 Already Pinned Down</h3>
 <p align="center">
   <img align="center" alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="35%">
 </p>
