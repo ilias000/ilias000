@@ -1,7 +1,7 @@
 <img align="left" src="Svgs/terminal.svg" width="5%"/>&nbsp;**Ilias Piotopoulos**<br>
-**`Computer Scientist / Student`**
+**`Computer Scientist ~ Student`**
 
-<p><img align="right" src="Gifs/Readme1.gif" alt="Ilias Piotopoulos coding Gif1" width="250" height="250"/></p>
+<img align="right" src="Gifs/Readme1.gif" alt="Ilias Piotopoulos coding Gif1" width="250" height="250"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2379F734&size=16&multiline=true&width=280&height=30&lines=Hello+and+welcome+to+my+profile)
 
@@ -64,7 +64,7 @@ I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 
 <td>
   <h3 align="center"> 🔗 Visit my personal website</h3>
   <p align="center">
-    <a href="https://ilias-piotopoulos.com" target="_blank"><img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif" href="https://ilias-piotopoulos.com" width="17%"/></a>
+    <a href="https://ilias-piotopoulos.com" target="_blank"><img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif" width="17%"/></a>
   </p>
 </td>
 
