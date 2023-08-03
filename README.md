@@ -79,7 +79,7 @@ I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 
 
 <h3 align="center">🐍 In case you wanted to see a snake eating my contribution graph:</h3>
 <p align="center">
-  <img align="center" src="https://github.com/ilias000/ilias000/blob/output/ocean.gif" alt="A snake eating my contribution graph" width="80%"/>
+  <img align="center" src="https://github.com/ilias000/ilias000/blob/output/github-snake-dark.svg" alt="A snake eating my contribution graph" width="80%"/>
 </p>
 
 ----
