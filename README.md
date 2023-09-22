@@ -67,7 +67,7 @@ I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 
 		<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="/Svgs/Postman.svg"
 				alt="Postman" width="40" height="40" /></a>
 		&nbsp;&nbsp;
-		<a href="https://badgr.com/public/assertions/vKRKsPp3Ty2UPS9cg86_kQ" target="_blank" rel="noreferrer"> <img src="/Svgs/PostmanStudentExpert.png"
+		<a href="https://badgr.com/public/assertions/vKRKsPp3Ty2UPS9cg86_kQ" target="_blank" rel="noreferrer"> <img src="/Pngs/PostmanStudentExpert.png"
 				alt="Postman API Fundamentals Student Expert - 2023-09-22" width="40" height="40" /></a>
 		&nbsp;&nbsp;
 </p>
