@@ -3,7 +3,7 @@
 
 <img align="right" src="Gifs/Readme1.gif" alt="Ilias Piotopoulos coding Gif1" width="250" height="250"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1500&color=07F700&vCenter=true&width=435&lines=Hello+and+welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=1500&color=07F700&width=435&lines=Hello+and+welcome+to+my+profile)](https://git.io/typing-svg)
 
 I am passionate about Computer Science and driven by a desire to create, learn, and continuously grow in the ever-evolving tech landscape. With a strong foundation in software development, I have hands-on experience building scalable web applications and solving complex problems.<br><br>
 
