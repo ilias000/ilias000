@@ -5,9 +5,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2379F734&size=16&multiline=true&width=280&height=30&lines=Hello+and+welcome+to+my+profile)
 
-**I am a student 🎓 at the National and Kapodistrian University of Athens 🏛️ where I study Computer Science and Telecommunications 👨‍💻.<br>
-I am passionate about the science I study and I have an appetite to create, learn, and constantly evolve in the field of Computer Science 💻. I have been interested in Computer Science from a young age 👶 where I have explored some of the paths it offers but I still want to experiment with all the different routes that this science has. I love learning and building new things as I am a person that loves getting better every day 📈.<br>
-I look forward to absorb knowledge 🧠, gain experience 💼, collaborate 🤝 and build amazing products 🏭 for the world🌍!**
+I am passionate about Computer Science and driven by a desire to create, learn, and continuously grow in the ever-evolving tech landscape. With a strong foundation in software development, I have hands-on experience building scalable web applications and solving complex problems.<br><br>
+
+I am focused on writing clean, efficient code by applying software design patterns and ensuring high-quality performance through unit and integration testing. My curiosity drives me to explore various paths within technology, and I thrive in environments that challenge me to innovate and grow.<br><br>
+
+I am always looking for ways to contribute to the success of the company I work for, whether by improving processes, delivering high-quality solutions, or collaborating with teams to drive impactful results. Committed to personal and professional development, I’m always seeking opportunities to push my boundaries, improve every day, and contribute to impactful, cutting-edge projects in the tech industry.
 
 ----
 
