@@ -21,38 +21,38 @@ I am always looking for ways to contribute to the success of the company I work 
 		<a class="familiarWith" href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
 				src="/Svgs/C++.svg" alt="C++" width="40" height="40" /></a>
 		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="/Svgs/java2.svg"
-				alt="Java" width="40" height="40" /></a>
+		<a class="familiarWith" href="https://www.java.com" target="_blank" rel="noreferrer"> <img 
+				src="/Svgs/java2.svg" alt="Java" width="40" height="40" /></a>
 		&nbsp;&nbsp;
-				<a class="familiarWith" href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="/Svgs/php.svg"
-				alt="PHP" width="40" height="40" /></a>
+		<a class="familiarWith" href="https://www.php.net/" target="_blank" rel="noreferrer"> <img 
+				src="/Svgs/php.svg" alt="PHP" width="40" height="40" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img
 				src="/Svgs/javascript2.svg" alt="JavaScript" width="40" height="40" /></a>
 		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://html.com/" target="_blank" rel="noreferrer"> <img src="/Svgs/HTML.svg"
-				alt="HTML" width="40" height="40" /></a>
+		<a class="familiarWith" href="https://html.com/" target="_blank" rel="noreferrer"> <img 
+				src="/Svgs/HTML.svg" alt="HTML" width="40" height="40" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
 				src="/Svgs/css2.svg" alt="CSS" width="47" height="47" /></a>
 		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="/Svgs/Spring.svg"
-				alt="Spring" width="40" height="40" /></a>
+		<a class="familiarWith" href="https://spring.io/" target="_blank" rel="noreferrer"> <img 
+				src="/Svgs/Spring.svg" alt="Spring" width="40" height="40" /></a>
 		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="/Svgs/react.svg"
-				alt="React" width="40" height="40" /></a>
+		<a class="familiarWith" href="https://react.dev/" target="_blank" rel="noreferrer"> <img 
+				src="/Svgs/react.svg" alt="React" width="40" height="40" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
 				src="/Svgs/Typescript.svg" alt="Typescript" width="40" height="40" /></a>
 		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="/Svgs/Sass.svg"
-				alt="Sass" width="40" height="40" /></a>
+		<a class="familiarWith" href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img 
+				src="/Svgs/Sass.svg" alt="Sass" width="40" height="40" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img
 				src="/Svgs/Bootstrap.svg" alt="Bootstrap" width="40" height="40" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-		src="/Svgs/tailwind.svg" alt="Tailwind" width="40" height="40" /></a>
+				src="/Svgs/tailwind.svg" alt="Tailwind" width="40" height="40" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
 				src="/Svgs/mongoDB.svg" alt="mongoDB" width="50" height="50" /></a>
@@ -66,8 +66,8 @@ I am always looking for ways to contribute to the success of the company I work 
 		<a class="familiarWith" href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
 				src="/Svgs/Kubernetes.svg" alt="Kubernetes" width="40" height="40" /></a>
 		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="/Svgs/Git.svg"
-				alt="Git" width="40" height="40" /></a>
+		<a class="familiarWith" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img 
+				src="/Svgs/Git.svg" alt="Git" width="40" height="40" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
 				src="/Svgs/Bash.svg" alt="Bash" width="40" height="40" /></a>
@@ -75,14 +75,14 @@ I am always looking for ways to contribute to the success of the company I work 
 		<a class="familiarWith" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
 				src="/Svgs/Linux.svg" alt="Linux" width="70" height="70" /></a>
 		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://postman.com" target="_blank" rel="noreferrer"> <img src="/Svgs/Postman.svg"
-				alt="Postman" width="40" height="40" /></a>
+		<a class="familiarWith" href="https://postman.com" target="_blank" rel="noreferrer"> <img 
+				src="/Svgs/Postman.svg" alt="Postman" width="40" height="40" /></a>
 		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://badgr.com/public/assertions/vKRKsPp3Ty2UPS9cg86_kQ" target="_blank" rel="noreferrer"> <img src="/Pngs/PostmanStudentExpert.png"
-				alt="Postman API Fundamentals Student Expert - 2023-09-22" width="40" height="40" /></a>
+		<a class="familiarWith" href="https://badgr.com/public/assertions/vKRKsPp3Ty2UPS9cg86_kQ" target="_blank" rel="noreferrer"> <img 
+				src="/Pngs/PostmanStudentExpert.png" alt="Postman API Fundamentals Student Expert - 2023-09-22" width="40" height="40" /></a>
 		&nbsp;&nbsp;
-				<a class="familiarWith" href="https://strapi.io/" target="_blank" rel="noreferrer"> <img src="/Svgs/strapi.svg"
-				alt="Strapi" width="70" height="70" /></a>
+				<a class="familiarWith" href="https://strapi.io/" target="_blank" rel="noreferrer"> <img 
+				src="/Svgs/strapi.svg" alt="Strapi" width="70" height="70" /></a>
 		&nbsp;&nbsp;
 	</p>
 
