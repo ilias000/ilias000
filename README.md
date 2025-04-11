@@ -73,7 +73,7 @@ I am always looking for ways to contribute to the success of the company I work 
 				src="/Svgs/Bash.svg" alt="Bash" width="40" height="40" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/Linux.svg" alt="Linux" width="70" height="70" /></a>
+				src="/Svgs/Linux.svg" alt="Linux" width="50" height="50" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://postman.com" target="_blank" rel="noreferrer"> <img 
 				src="/Svgs/Postman.svg" alt="Postman" width="40" height="40" /></a>
@@ -81,7 +81,7 @@ I am always looking for ways to contribute to the success of the company I work 
 		<a class="familiarWith" href="https://badgr.com/public/assertions/vKRKsPp3Ty2UPS9cg86_kQ" target="_blank" rel="noreferrer"> <img 
 				src="/Pngs/PostmanStudentExpert.png" alt="Postman API Fundamentals Student Expert - 2023-09-22" width="40" height="40" /></a>
 		&nbsp;&nbsp;
-				<a class="familiarWith" href="https://strapi.io/" target="_blank" rel="noreferrer"> <img 
+		<a class="familiarWith" href="https://strapi.io/" target="_blank" rel="noreferrer"> <img 
 				src="/Svgs/strapi.svg" alt="Strapi" width="70" height="70" /></a>
 		&nbsp;&nbsp;
 	</p>
