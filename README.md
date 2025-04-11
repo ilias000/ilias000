@@ -28,13 +28,13 @@ I am always looking for ways to contribute to the success of the company I work 
 				alt="PHP" width="40" height="40" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/JavaScript2.svg" alt="JavaScript" width="40" height="40" /></a>
+				src="/Svgs/javaScript2.svg" alt="JavaScript" width="40" height="40" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://html.com/" target="_blank" rel="noreferrer"> <img src="/Svgs/HTML.svg"
 				alt="HTML" width="40" height="40" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/CSS2.svg" alt="CSS" width="47" height="47" /></a>
+				src="/Svgs/css2.svg" alt="CSS" width="47" height="47" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="/Svgs/Spring.svg"
 				alt="Spring" width="40" height="40" /></a>
