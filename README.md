@@ -21,7 +21,7 @@ I am always looking for ways to contribute to the success of the company I work 
 		<a class="familiarWith" href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
 				src="/Svgs/C++.svg" alt="C++" width="40" height="40" /></a>
 		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="/Svgs/Java2.svg"
+		<a class="familiarWith" href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="/Svgs/java2.svg"
 				alt="Java" width="40" height="40" /></a>
 		&nbsp;&nbsp;
 				<a class="familiarWith" href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="/Svgs/php.svg"
