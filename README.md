@@ -73,7 +73,7 @@ I am always looking for ways to contribute to the success of the company I work 
 				src="/Svgs/Bash.svg" alt="Bash" width="40" height="40" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/Linux.svg" alt="Linux" width="50" height="50" /></a>
+				src="/Svgs/Linux.svg" alt="Linux" width="55" height="55" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://postman.com" target="_blank" rel="noreferrer"> <img 
 				src="/Svgs/Postman.svg" alt="Postman" width="40" height="40" /></a>
