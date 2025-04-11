@@ -82,7 +82,7 @@ I am always looking for ways to contribute to the success of the company I work 
 				src="/Pngs/PostmanStudentExpert.png" alt="Postman API Fundamentals Student Expert - 2023-09-22" width="40" height="40" /></a>
 		&nbsp;&nbsp;
 		<a class="familiarWith" href="https://strapi.io/" target="_blank" rel="noreferrer"> <img 
-				src="/Svgs/strapi.svg" alt="Strapi" width="60" height="60" /></a>
+				src="/Svgs/strapi.svg" alt="Strapi" width="70" height="70" /></a>
 		&nbsp;&nbsp;
 	</p>
 
