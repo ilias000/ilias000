@@ -1,5 +1,5 @@
 <img align="left" src="Svgs/terminal.svg" width="5%"/>&nbsp;**Ilias Piotopoulos**<br>
-**`Computer Scientist`**
+**`Computer Scientist 💻 Full Stack Software Engineer 🌐 Cybersecurity Enthusiast 🔒`**
 
 <img align="right" src="Gifs/Readme1.gif" alt="Ilias Piotopoulos coding Gif1" width="250" height="250"/>
 
