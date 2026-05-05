@@ -101,14 +101,6 @@ I am always looking for ways to contribute to the success of the company I work 
 
 ----
 
-<p align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=ilias000&show_icons=true&theme=yeblu" alt="ilias000 statistics"/>
-  <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilias000&theme=yeblu" alt="ilias000 statistics"/>
-  <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilias000&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="ilias000 statistics"/>
-</p>
-
-----
-
 <td>
   <h3 align="center"> 🔗 Visit my personal website</h3>
   <p align="center">
