@@ -87,12 +87,6 @@ I am always looking for ways to contribute to the success of the company I work 
 	</p>
 
 ----
-  
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilias000&theme=monokai" alt="ilias000 statistics" width="75%"/></a> 
-</p>
-
-----
 
 <h3 align="center">🐍 In case you wanted to see a snake eating my contribution graph:</h3>
 <p align="center">
