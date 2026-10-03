@@ -5,7 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=1500&color=07F700&width=435&lines=Hello+and+welcome+to+my+profile)](#)
 
-**Status:** 🟢 Seeking MSc in Computer Science
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/status-dark.svg">
+  <img src="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/status-light.svg" alt="Status: Seeking MSc in Computer Science" height="28">
+</picture>
 
 I design and build backend and full-stack software, with a focus on clean architecture, well-tested code, and secure design.
 
@@ -31,6 +34,16 @@ I like being useful to the team I am part of, whether that means improving a pro
 | **Architecture &amp; practices** | REST &amp; SOAP APIs &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; Design patterns &nbsp;·&nbsp; Agile / Scrum |
 
 **Certification:** <img src="Pngs/PostmanStudentExpert.png" alt="" width="16" height="16"> [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/vKRKsPp3Ty2UPS9cg86_kQ) (2023)
+
+----
+
+<h3 align="center">🏙️ My contributions in 3D</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias000/ilias000/output-3d/profile-night-green.svg">
+    <img src="https://raw.githubusercontent.com/ilias000/ilias000/output-3d/profile-green-animate.svg" alt="My GitHub contributions as a 3D graph" width="90%">
+  </picture>
+</p>
 
 ----
 

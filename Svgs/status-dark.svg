@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="336" height="28" viewBox="0 0 336 28" role="img" aria-label="Status: Seeking MSc in Computer Science">
+	<title>Status: Seeking MSc in Computer Science</title>
+	<rect x="0.5" y="0.5" width="335" height="27" rx="13.5" fill="#0e0e10" stroke="#2b2b31"/>
+	<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1.2">
+		<text x="14" y="18" fill="#e5bf95" textLength="50" lengthAdjust="spacingAndGlyphs">STATUS</text>
+		<text x="102" y="18" fill="#a8a39a" textLength="220" lengthAdjust="spacingAndGlyphs">SEEKING MSC IN COMPUTER SCIENCE</text>
+	</g>
+	<line x1="74" y1="8" x2="74" y2="20" stroke="#2b2b31"/>
+	<!-- Pulsing ring behind the dot, like the badge on ilias-piotopoulos.com. -->
+	<circle cx="88" cy="14" r="4" fill="#4ade80" opacity="0.6">
+		<animate attributeName="r" values="4;9" dur="2s" repeatCount="indefinite"/>
+		<animate attributeName="opacity" values="0.6;0" dur="2s" repeatCount="indefinite"/>
+	</circle>
+	<circle cx="88" cy="14" r="4" fill="#4ade80"/>
+</svg>
