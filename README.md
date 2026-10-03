@@ -1,114 +1,61 @@
-<img align="left" src="Svgs/terminal.svg" width="5%"/>&nbsp;**Ilias Piotopoulos**<br>
-**`Computer Scientist 💻 Full Stack Software Engineer 🌐 Cybersecurity Enthusiast 🔒`**
+<img align="left" src="Svgs/logo.svg" width="44" alt="">&nbsp;**Ilias Piotopoulos**<br>
+**`Software Engineer | Computer Scientist`**
 
 <img align="right" src="Gifs/Readme1.gif" alt="Ilias Piotopoulos coding Gif1" width="250" height="250"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=1500&color=07F700&width=435&lines=Hello+and+welcome+to+my+profile)](#)
 
-I am passionate about Computer Science and driven by a desire to create, learn, and continuously grow in the ever-evolving tech landscape. With a strong foundation in software development, I have hands-on experience building scalable web applications and solving complex problems.<br><br>
+**Status:** 🟢 Seeking MSc in Computer Science
 
-I am focused on writing clean, efficient code by applying software design patterns and ensuring high-quality performance through unit and integration testing. My curiosity drives me to explore various paths within technology, and I thrive in environments that challenge me to innovate and grow.<br><br>
+I design and build backend and full-stack software, with a focus on clean architecture, well-tested code, and secure design.
 
-I am always looking for ways to contribute to the success of the company I work for, whether by improving processes, delivering high-quality solutions, or collaborating with teams to drive impactful results. Committed to personal and professional development, I’m always seeking opportunities to push my boundaries, improve every day, and contribute to impactful, cutting-edge projects in the tech industry.
+I am a computer scientist and software engineer who enjoys building things and understanding how they work. I have built web applications and backend systems in the cybersecurity, online media buying, and telecom industries, and I hold a degree in Computer Science and Telecommunications from the University of Athens.
+
+I care about clean, efficient code. I use design patterns where they make a system easier to change, and I rely on unit and integration tests to keep quality high. Curiosity pulls me toward new areas of technology, and I enjoy challenges that push me to learn and grow.
+
+I like being useful to the team I am part of, whether that means improving a process, delivering a solid solution, or helping others finish theirs. I keep looking for chances to push my limits and get a little better every day.
 
 ----
 
-<h3 align="center">🧰 Languages and Tools</h3>
-<p align="center">
-		<a class="familiarWith" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/C.svg" alt="C" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/C++.svg" alt="C++" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://www.java.com" target="_blank" rel="noreferrer"> <img 
-				src="/Svgs/java2.svg" alt="Java" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://www.php.net/" target="_blank" rel="noreferrer"> <img 
-				src="/Svgs/php.svg" alt="PHP" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/javascript2.svg" alt="JavaScript" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://html.com/" target="_blank" rel="noreferrer"> <img 
-				src="/Svgs/HTML.svg" alt="HTML" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/css2.svg" alt="CSS" width="45" height="45" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://spring.io/" target="_blank" rel="noreferrer"> <img 
-				src="/Svgs/Spring.svg" alt="Spring" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://react.dev/" target="_blank" rel="noreferrer"> <img 
-				src="/Svgs/react.svg" alt="React" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/Typescript.svg" alt="Typescript" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img 
-				src="/Svgs/Sass.svg" alt="Sass" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/Bootstrap.svg" alt="Bootstrap" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/tailwind.svg" alt="Tailwind" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/mongoDB.svg" alt="mongoDB" width="50" height="50" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/MySQL.svg" alt="MySQL" width="45" height="45" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/Docker.svg" alt="Docker" width="45" height="45" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/Kubernetes.svg" alt="Kubernetes" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img 
-				src="/Svgs/Git.svg" alt="Git" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/Bash.svg" alt="Bash" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-				src="/Svgs/Linux.svg" alt="Linux" width="50" height="50" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://postman.com" target="_blank" rel="noreferrer"> <img 
-				src="/Svgs/Postman.svg" alt="Postman" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://badgr.com/public/assertions/vKRKsPp3Ty2UPS9cg86_kQ" target="_blank" rel="noreferrer"> <img 
-				src="/Pngs/PostmanStudentExpert.png" alt="Postman API Fundamentals Student Expert - 2023-09-22" width="40" height="40" /></a>
-		&nbsp;&nbsp;
-		<a class="familiarWith" href="https://strapi.io/" target="_blank" rel="noreferrer"> <img 
-				src="/Svgs/strapi2.svg" alt="Strapi" width="33" height="33" /></a>
-		&nbsp;&nbsp;
-	</p>
+<h3 align="center">🧰 Skills</h3>
+
+| Area | Technologies |
+|---|---|
+| **Languages** | <img src="Svgs/java.svg" alt="" width="16" height="16"> Java &nbsp;·&nbsp; <img src="Svgs/c.svg" alt="" width="16" height="16"> C &nbsp;·&nbsp; <img src="Svgs/cpp.svg" alt="" width="16" height="16"> C++ &nbsp;·&nbsp; <img src="Svgs/php.svg" alt="" width="16" height="16"> PHP &nbsp;·&nbsp; <img src="Svgs/javascript.svg" alt="" width="16" height="16"> JavaScript &nbsp;·&nbsp; <img src="Svgs/typescript.svg" alt="" width="16" height="16"> TypeScript &nbsp;·&nbsp; SQL &nbsp;·&nbsp; <img src="Svgs/bash.svg" alt="" width="16" height="16"> Bash |
+| **Backend** | <img src="Svgs/spring.svg" alt="" width="16" height="16"> Spring / Spring Boot &nbsp;·&nbsp; <img src="Svgs/kafka.svg" alt="" width="16" height="16"> Kafka &nbsp;·&nbsp; <img src="Svgs/keycloak.svg" alt="" width="16" height="16"> Keycloak &nbsp;·&nbsp; <img src="Svgs/strapi.svg" alt="" width="16" height="16"> Strapi &nbsp;·&nbsp; <img src="Svgs/openapi.svg" alt="" width="16" height="16"> OpenAPI |
+| **Frontend** | <img src="Svgs/react.svg" alt="" width="16" height="16"> React &nbsp;·&nbsp; <img src="Svgs/vue.svg" alt="" width="16" height="16"> Vue &nbsp;·&nbsp; <img src="Svgs/html.svg" alt="" width="16" height="16"> HTML &nbsp;·&nbsp; <img src="Svgs/css.svg" alt="" width="16" height="16"> CSS / Sass &nbsp;·&nbsp; <img src="Svgs/tailwind.svg" alt="" width="16" height="16"> Tailwind &nbsp;·&nbsp; <img src="Svgs/bootstrap.svg" alt="" width="16" height="16"> Bootstrap |
+| **Databases** | <img src="Svgs/mysql.svg" alt="" width="16" height="16"> MySQL &nbsp;·&nbsp; <img src="Svgs/mariadb.svg" alt="" width="16" height="16"> MariaDB &nbsp;·&nbsp; <img src="Svgs/postgresql.svg" alt="" width="16" height="16"> PostgreSQL &nbsp;·&nbsp; <img src="Svgs/mongodb.svg" alt="" width="16" height="16"> MongoDB |
+| **DevOps &amp; cloud** | <img src="Svgs/docker.svg" alt="" width="16" height="16"> Docker &nbsp;·&nbsp; <img src="Svgs/kubernetes.svg" alt="" width="16" height="16"> Kubernetes &nbsp;·&nbsp; <img src="Svgs/aws.svg" alt="" width="16" height="16"> AWS &nbsp;·&nbsp; <img src="Svgs/linux.svg" alt="" width="16" height="16"> Linux &nbsp;·&nbsp; CI/CD &nbsp;·&nbsp; <img src="Svgs/gitlab.svg" alt="" width="16" height="16"> GitLab CI |
+| **Tools** | <img src="Svgs/git.svg" alt="" width="16" height="16"> Git &nbsp;·&nbsp; <img src="Svgs/maven.svg" alt="" width="16" height="16"> Maven &nbsp;·&nbsp; <img src="Svgs/gradle.svg" alt="" width="16" height="16"> Gradle &nbsp;·&nbsp; <img src="Svgs/postman.svg" alt="" width="16" height="16"> Postman &nbsp;·&nbsp; <img src="Svgs/intellij.svg" alt="" width="16" height="16"> IntelliJ IDEA |
+| **Testing** | TDD &nbsp;·&nbsp; Unit &amp; integration testing &nbsp;·&nbsp; <img src="Svgs/junit.svg" alt="" width="16" height="16"> JUnit &nbsp;·&nbsp; Spock &nbsp;·&nbsp; <img src="Svgs/cucumber.svg" alt="" width="16" height="16"> Cucumber |
+| **Architecture &amp; practices** | REST &amp; SOAP APIs &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; Design patterns &nbsp;·&nbsp; Agile / Scrum |
+
+**Certification:** <img src="Pngs/PostmanStudentExpert.png" alt="" width="16" height="16"> [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/vKRKsPp3Ty2UPS9cg86_kQ) (2023)
 
 ----
 
 <h3 align="center">🐍 In case you wanted to see a snake eating my contribution graph:</h3>
 <p align="center">
-  <img align="center" src="https://github.com/ilias000/ilias000/blob/output/github-snake-dark.svg" alt="A snake eating my contribution graph" width="80%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias000/ilias000/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/ilias000/ilias000/output/github-snake.svg" alt="A snake eating my contribution graph" width="80%">
+  </picture>
 </p>
 
 ----
 
-<td>
-  <h3 align="center"> 🔗 Visit my personal website</h3>
-  <p align="center">
-    <a href="https://ilias-piotopoulos.com" target="_blank"><img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos Glob Gif" width="17%"/></a>
-  </p>
-</td>
+<h3 align="center">🔗 Visit my personal website</h3>
+<p align="center">
+  <a href="https://ilias-piotopoulos.com"><img src="Gifs/Earth2.gif" alt="Ilias Piotopoulos website" width="17%"/></a>
+</p>
 
 ----
 
 <h3>📫 Get In Touch</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ilias-piotopoulos/" target="_blank"><img align="center" alt="Ilias Piotopoulos | Linkedin" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"/></a> 
+  <a href="https://www.linkedin.com/in/ilias-piotopoulos/"><img align="center" alt="Ilias Piotopoulos | LinkedIn" width="25" src="Svgs/linkedin.svg"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:admin@ilias-piotopoulos.com" target="_blank"><img align="center" alt="Ilias Piotopoulos | Gmail" width="34px" src="/Pngs/gmail1.png"/></a>
+  <a href="mailto:admin@ilias-piotopoulos.com"><img align="center" alt="Ilias Piotopoulos | Email" width="34" src="Pngs/gmail1.png"/></a>
 </p>
 
 ----
