@@ -1,14 +1,14 @@
 <img align="left" src="Svgs/logo.svg" width="44" alt="">&nbsp;**Ilias Piotopoulos**<br>
 **`Software Engineer | Computer Scientist`**
 
-<img align="right" src="Gifs/Readme1.gif" alt="Ilias Piotopoulos coding Gif1" width="250" height="250"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=1500&color=07F700&width=435&lines=Hello+and+welcome+to+my+profile)](#)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/status-dark.svg">
   <img src="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/status-light.svg" alt="Status: Seeking MSc in Computer Science" height="28">
 </picture>
+
+<img align="right" src="Gifs/Readme1.gif" alt="Ilias Piotopoulos coding Gif1" width="250" height="250"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=1500&color=07F700&width=435&lines=Hello+and+welcome+to+my+profile)](#)
 
 I design and build backend and full-stack software, with a focus on clean architecture, well-tested code, and secure design.
 
@@ -67,11 +67,22 @@ I like being useful to the team I am part of, whether that means improving a pro
 
 ----
 
-<h3>📫 Get In Touch</h3>
+<h3 align="center">📫 Get In Touch</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ilias-piotopoulos/"><img align="center" alt="Ilias Piotopoulos | LinkedIn" width="25" src="Svgs/linkedin.svg"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:admin@ilias-piotopoulos.com"><img align="center" alt="Ilias Piotopoulos | Email" width="34" src="Pngs/gmail1.png"/></a>
+  <a href="https://www.linkedin.com/in/ilias-piotopoulos/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-linkedin-dark.svg">
+    <img src="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-linkedin-light.svg" alt="LinkedIn" height="36">
+  </picture></a>
+  &nbsp;
+  <a href="mailto:admin@ilias-piotopoulos.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-email-dark.svg">
+    <img src="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-email-light.svg" alt="Email" height="36">
+  </picture></a>
+  &nbsp;
+  <a href="https://ilias-piotopoulos.com/cv.pdf"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-cv-dark.svg">
+    <img src="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-cv-light.svg" alt="Download CV" height="36">
+  </picture></a>
 </p>
 
 ----
