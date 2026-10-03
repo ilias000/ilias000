@@ -1,5 +1,5 @@
 <img align="left" src="Svgs/logo.svg" width="44" alt="">&nbsp;**Ilias Piotopoulos**<br>
-**`Software Engineer / Computer Scientist`**
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/title-dark.svg"><img src="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/title-light.svg" alt="Software Engineer / Computer Scientist" height="26"></picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/status-dark.svg">
