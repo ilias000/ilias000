@@ -29,7 +29,14 @@ I like being useful to the team I am part of, whether that means improving a pro
   </picture>
 </p>
 
-**Certification:** <img src="Pngs/PostmanStudentExpert.png" alt="" width="16" height="16"> [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/vKRKsPp3Ty2UPS9cg86_kQ) (2023)
+----
+
+<h3 align="center">🎓 Certification</h3>
+<p align="center">
+  <a href="https://badgr.com/public/assertions/vKRKsPp3Ty2UPS9cg86_kQ"><img src="Pngs/PostmanStudentExpert.png" alt="Postman API Fundamentals Student Expert badge" width="110"></a>
+  <br>
+  <b>Postman API Fundamentals Student Expert</b> · 2023
+</p>
 
 ----
 
