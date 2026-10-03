@@ -69,20 +69,11 @@ I like being useful to the team I am part of, whether that means improving a pro
 
 <h3 align="center">📫 Get In Touch</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ilias-piotopoulos/"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-linkedin-dark.svg">
-    <img src="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-linkedin-light.svg" alt="LinkedIn" height="36">
-  </picture></a>
-  &nbsp;
-  <a href="mailto:admin@ilias-piotopoulos.com"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-email-dark.svg">
-    <img src="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-email-light.svg" alt="Email" height="36">
-  </picture></a>
-  &nbsp;
-  <a href="https://ilias-piotopoulos.com/cv.pdf"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-cv-dark.svg">
-    <img src="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-cv-light.svg" alt="Download CV" height="36">
-  </picture></a>
+<a href="https://www.linkedin.com/in/ilias-piotopoulos/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-linkedin-dark.svg"><img src="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-linkedin-light.svg" alt="LinkedIn" height="36"></picture></a>
+&nbsp;&nbsp;
+<a href="mailto:admin@ilias-piotopoulos.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-email-dark.svg"><img src="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-email-light.svg" alt="Email" height="36"></picture></a>
+&nbsp;&nbsp;
+<a href="https://ilias-piotopoulos.com/cv.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-cv-dark.svg"><img src="https://raw.githubusercontent.com/ilias000/ilias000/main/Svgs/contact-cv-light.svg" alt="Download CV" height="36"></picture></a>
 </p>
 
 ----
